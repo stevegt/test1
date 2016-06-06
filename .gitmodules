@@ -1,0 +1,3 @@
+[submodule "test2"]
+	path = test2
+	url = git@gitlab.t7a.org:stevegt/test2.git
