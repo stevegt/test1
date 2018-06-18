@@ -13,3 +13,8 @@ Another section
 
 - do something
 - do something else
+
+Test editing via gitea web UI
+-------------------
+
+Works!
