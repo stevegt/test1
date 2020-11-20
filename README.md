@@ -18,3 +18,12 @@ Test editing via gitea web UI
 -------------------
 
 Works!
+
+
+Sandbox
+
+Catbox
+
+Soapbox
+
+Bugbox
