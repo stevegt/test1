@@ -27,3 +27,9 @@ Catbox
 Soapbox
 
 Bugbox
+
+More boxes:
+
+Issuebox
+
+Commentbox
