@@ -35,3 +35,5 @@ More boxes:
 Issuebox
 
 Commentbox
+=======
+Bugbox
