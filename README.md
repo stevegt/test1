@@ -37,3 +37,9 @@ Issuebox
 Commentbox
 =======
 Bugbox
+
+# testing indented italics
+
+> *this is an indented italiced text block lkasjfdl sajflksaj flskjf lsakjf lsakjf lsakjf lsakjf slkjf lskfjs lkfjs lf
+> skdjflksjf lskjflsakjf
+> lksjdflskjf lsa j*
