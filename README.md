@@ -44,6 +44,6 @@ Bugbox [^footb]
 > skdjflksjf lskjflsakjf
 > lksjdflskjf lsa j*
 
-[^foota] footnote A
+[^foota]: footnote A
 
-[^footb] footnote B
+[^footb]: footnote B
