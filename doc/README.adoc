@@ -1,0 +1,54 @@
+= Project Documentation
+Author Name
+:doctype: article
+:toc: macro
+
+toc::[]
+
+== Introduction
+
+AsciiDoc is a powerful tool for documentation. According to <<doe2021>>, it provides extensive features for writers.
+
+Learn how to get started in the <<usage-guide,Usage Guide>>.
+
+For advanced techniques, see the work by <<smith2020>>.
+
+== Usage Guide
+
+This section explains how to use the project...
+
+lksajflkj
+l
+kjl
+ kj
+lkj
+ lk
+jl
+ kj
+lk j
+lk
+j 
+lkj
+l kjlkj lkj
+
+
+lkj l
+kj lkj
+lkj lkj 
+
+
+lkj lkj
+ lkj lkj po
+ p
+oj po
+h okj
+
+oi jokj ;lkj
+   lkjlk j
+  
+
+== References
+
+[bibliography]
+- [[[doe2021]]] Doe, J. (2021). *An Introduction to AsciiDoc*. Publishing House.
+- [[[smith2020]]] Smith, A. (2020). "Advanced AsciiDoc Techniques". *Journal of Documentation*, 45(3), 123-130.
